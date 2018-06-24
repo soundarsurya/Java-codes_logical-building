@@ -10,9 +10,11 @@ Note:
 1. The input strings are case sensitive and it contains characters(a...z and A...Z) only.
 2. If the input string contains other than characters then print "Invalid String" (without quotes)
 
-sample I/O:
+Runtime Input :
 Kumar
 uKmar
+Output :
+true
 */
 =====================================================================================================
 PROGRAM:
