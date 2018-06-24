@@ -19,9 +19,11 @@ Output Format:
  Sample I/O:
  45451
  TajFirst
-    
+ */
+
 =============================================================================================================================
 PROGRAM:
+
 import java.util.Scanner;
 class TajPassword
 {
