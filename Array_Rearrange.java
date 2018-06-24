@@ -7,7 +7,14 @@ Condition 2 : arr[i]<=arr[i-1], if i is odd
 Input Format:
     First line contains an integer N(size of the array) and second line contains N elements separated by space(array elements).
 Output Format:
-    A line contains resulting array elements separated by space.*/
+    A line contains resulting array elements separated by space.
+================ 
+Runtime Input :
+4
+1 2 2 1
+Output :
+1 2 1 2
+ */
 =============================================================================================================================	
 PROGRAM:
 import java.util.*;
