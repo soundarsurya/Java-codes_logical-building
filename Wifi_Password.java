@@ -15,12 +15,14 @@ Input Format:
     First line contains a five digit number(room number) and second line contains a string(Room name)
 Output Format:
     A line contains four digit password.
-   
- Sample I/O:
- 45451
- TajFirst
+================  
+Runtime Input :
+45451
+TajFirst
+Output :
+5$1i
+ 
  */
-
 =============================================================================================================================
 PROGRAM:
 
